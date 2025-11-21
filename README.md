@@ -15,3 +15,5 @@ This addon collects nothing and sends nothing.
 
 ### Note
 Some audio/video conferencing web services like Google Meet or Microsoft Teams depend on WebRTC to work. Firefox can't disable WebRTC per-tab or per-window, the setting affects the entire browser. That's why it is a toggler - toggle it on and off to get flexible security solution.  
+
+A fork of original repository authored by Chris Antaki: https://github.com/ChrisAntaki/disable-webrtc-firefox
