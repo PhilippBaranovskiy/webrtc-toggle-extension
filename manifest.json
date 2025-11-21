@@ -1,37 +1,29 @@
 {
   "manifest_version": 2,
-  "name": "Disable WebRTC",
+  "name": "Toggle WebRTC on and off",
   "version": "1.0.23",
 
-  "description": "Disables WebRTC consistently.",
-
-  "commands": {
-      "_execute_browser_action": {
-          "suggested_key": {
-              "default": "Ctrl+Alt+W"
-          }
-      }
-  },
+  "description": "Toggle WebRTC off and on to prevent IP leaks",
 
   "browser_action": {
     "default_icon": {
-      "16": "images/safe-16.png",
-      "32": "images/safe-32.png",
-      "48": "images/safe-48.png",
-      "64": "images/safe-64.png"
+      "16": "images/on-16.png",
+      "32": "images/on-32.png",
+      "48": "images/on-48.png",
+      "64": "images/on-64.png"
     },
     "default_title": "Disable WebRTC"
   },
 
   "icons": {
-    "16": "images/safe-16.png",
-    "32": "images/safe-32.png",
-    "48": "images/safe-48.png",
-    "64": "images/safe-64.png"
+    "16": "images/on-16.png",
+    "32": "images/on-32.png",
+    "48": "images/on-48.png",
+    "64": "images/on-64.png"
   },
 
   "background": {
-    "scripts": ["js/disable_webrtc.js"]
+    "scripts": ["js/webrtc_toggler.js"]
   },
 
   "permissions": ["privacy", "browserSettings"]
