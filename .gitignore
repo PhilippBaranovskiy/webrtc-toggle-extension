@@ -1,4 +1,1 @@
 *.xpi
-node_modules/
-.idea/
-web-ext-artifacts/
