@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Toggle WebRTC on and off",
-  "version": "1.0.23",
+  "version": "2.0.0",
 
   "description": "Toggle WebRTC off and on to prevent IP leaks",
 
@@ -12,7 +12,7 @@
       "48": "images/on-48.png",
       "64": "images/on-64.png"
     },
-    "default_title": "Disable WebRTC"
+    "default_title": "Toggle WebRTC"
   },
 
   "icons": {
