@@ -1,1 +1,11 @@
 *.xpi
+node_modules/
+.DS_Store
+.vscode/
+build/
+dist/
+.idea/
+*.subline-project
+*.subline-workspace
+web-ext-artifacts/
+**/.amo-upload-uuid

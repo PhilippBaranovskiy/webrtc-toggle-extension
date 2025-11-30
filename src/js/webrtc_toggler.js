@@ -19,7 +19,7 @@ function toggleWebRTC(enable = true) {
 
   // Update icon.
   const name = enable ? 'on' : 'off';
-  browser.browserAction.setIcon({ path: `images/${name}-64.png` });
+  browser.browserAction.setIcon({ path: `icons/icon_${name}_64.png` });
 }
 
 /** Handles clicks on the action button. */

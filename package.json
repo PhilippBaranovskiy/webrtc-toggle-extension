@@ -1,0 +1,27 @@
+{
+  "name": "webrtc-toggle-extension",
+  "version": "2.4.0",
+  "description": "Toggle WebRTC off and on to prevent IP leaks",
+  "homepage": "https://github.com/PhilippBaranovskiy/webrtc-toggle-extension#readme",
+  "bugs": {
+    "url": "https://github.com/PhilippBaranovskiy/webrtc-toggle-extension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippBaranovskiy/webrtc-toggle-extension.git"
+  },
+  "license": "MPL-2.0",
+  "author": "Philipp Baranovskiy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:firefox": "web-ext run --source-dir src",
+    "lint": "web-ext lint --source-dir src",
+    "sign": "web-ext sign --source-dir src --api-key=XXXXXXXXXXX --api-secret=XXXXXXXXXXXXX --channel=listed --source-dir=.",
+    "build": "web-ext build --source-dir src"
+  },
+  "devDependencies": {
+    "web-ext": "^9.2.0"
+  }
+}

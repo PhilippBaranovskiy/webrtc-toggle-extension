@@ -6,9 +6,9 @@
 set -euo pipefail
 
 # ---------- Settings ----------
-sizes=(128 64 32 16)          # target dimensions
+sizes=(128 64 48 32 16)          # target dimensions
 src_files=("icon_on.png" "icon_off.png")
-default_out_dir="icons"
+default_out_dir="src/icons"
 # --------------------------------
 
 # Output directory (argument 1 or default)

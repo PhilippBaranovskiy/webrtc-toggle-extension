@@ -1,0 +1,654 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"con",
+				"concat_list"
+			],
+			[
+				"toHaveB",
+				"toHaveBeenCalled"
+			],
+			[
+				"autho",
+				"author_request"
+			],
+			[
+				"au",
+				"author_telegram_id"
+			],
+			[
+				"bef",
+				"before2"
+			],
+			[
+				"bre",
+				"before1"
+			],
+			[
+				"after",
+				"after1"
+			],
+			[
+				"be",
+				"before1"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"mockResolved",
+				"mockResolvedValue"
+			],
+			[
+				"com",
+				"completed_deals"
+			],
+			[
+				"rese",
+				"resolve"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"get_",
+				"get_donat_bot_link"
+			],
+			[
+				"ge",
+				"get_open_deals"
+			],
+			[
+				"Mock",
+				"MockConsole"
+			],
+			[
+				"Moc",
+				"MockTelegram"
+			],
+			[
+				"me",
+				"message_id"
+			],
+			[
+				"c",
+				"chat_id"
+			],
+			[
+				"dea",
+				"deal_id"
+			],
+			[
+				"deal",
+				"deal_id"
+			],
+			[
+				"foll",
+				"follower"
+			],
+			[
+				"update",
+				"update_request"
+			],
+			[
+				"connec",
+				"connections"
+			],
+			[
+				"fol",
+				"follower"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"messa",
+				"message_id"
+			],
+			[
+				"message",
+				"messages_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 660,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFEAAAAAAAAAUQAAAAAAAAABAAAAMg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAAAAAAAAAFIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAFEAAAAAAAAAUgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"shell",
+				"Build With: ShellScript"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pb/Documents/REPOS/webrtc-toggle-extension"
+	],
+	"file_history":
+	[
+		"/home/pb/Documents/REPOS/webrtc-toggle-extension/package.json",
+		"/home/pb/Documents/REPOS/webrtc-toggle-extension/.gitignore",
+		"/home/pb/Downloads/README (FROM WD).txt",
+		"/run/media/pb/PB_64GB/_/КНИГА.txt",
+		"/run/media/pb/PB_64GB/_/Trading - Education - Books - Videos/Дмитрий Черемушкин - Базовый курс по интернет трейдингу от А до Я PRO (2014)/Инструкция по запуску курса.txt",
+		"/home/pb/Downloads/index.html",
+		"/home/pb/Downloads/1.html",
+		"/run/media/pb/PB_64GB/Videos/Dr.Sanders.Sleep.Cure.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264.RU.srt",
+		"/home/pb/split_by_25mins.sh",
+		"/home/pb/rename.sh",
+		"/home/pb/.config/lxsession/LXDE/autostart",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/__tests__/index/index_remaining_behaviour.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/index.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/__tests__/index/index_actions.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/__tests__/index/index_membership_status.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/helpers.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/hash.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/lang.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/__tests__/index/index_extra_branches.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/package.json",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/message_handler.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/thread_message.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/edited_message.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/dispatch_associated_posts.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/broadcast_translation.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/thread_message.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/thread_message.unit.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/package.json",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__mocks__/telegraf.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db/db.log_reply.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/db/log_reply.js",
+		"/home/pb/Documents/REPOS/P2P_community/delete_bot/db.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/bot.js",
+		"/home/pb/Documents/REPOS/P2P_community/delete_bot/index.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/dispatch_associated_posts.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/handle_blocked.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/message_handler.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/message_handler_2.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/message_handler_3.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handlers/message_handler_4.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handle_blocked_2.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/delete_bot/push_bot_dev.sh",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/edited_message.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/edited_message_and_handler.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/push_bot_dev.sh",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/push_bot_prod.sh",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/config.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/db/schedule_task.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db/db.schedule_task.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/LICENSE.md",
+		"/tmp/hls_stream_1Z5atn/hls/stream.m3u8",
+		"/tmp/hls_stream_1Z5atn/playlist.txt",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/src/handlers/handle_blocked.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/index.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/index/index.message_handler.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/index/index.edited_message_handler.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/message_handler_branch_gaps.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/message_handler_hashtags.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handler.http.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/index/handler.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/db.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/helpers.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/.husky/post-commit",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/block.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/db/select_by.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.deactivate_deal.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.get_connections_by_deal_id.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.get_deal_by_id.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.get_replies_by_deal_id.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.log_reply.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.place_post.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.schedule_task.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.select_active_subscribers.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/logger_bot_dev/__tests__/db.select_by.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/push_bot_dev.sh",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/push_bot_prod.sh",
+		"/home/pb/Documents/REPOS/P2P_community/rating-bot-dev/eslint.config.cjs",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/package.json",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/LICENSE.md",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/.husky/post-commit",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db/update_followers_by_nicknames.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.up.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/up_follower.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/lib.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/update_followers_by_nicknames.js",
+		"/home/pb/Documents/sys.html",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/.husky/pre-push",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index_methods.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/lib.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/.github/CODEOWNERS",
+		"/home/pb/Documents/REPOS/P2P_community/222/index.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/update_follower_by_id.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.get.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/select_by.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db/update_follower_by_id.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/update_follower_by_nickname.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/select_all_by.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/helpers.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/onboard.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/helpers.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db/add_new_record.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db/update_membership_coins_status_by_id.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.moderation.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db/error_handling.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/set_property.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/add_member.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/db.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/db_methods/update_data_by_id.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.add.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.set.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/push_bot_dev.sh",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/push_bot_prod.sh",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/lang.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/push_bot_prod.original.sh",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/setactive.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/get_by_nickname.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/ban.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/up_author.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/up_donator.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/index_methods/up_poster.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/eslint.config.cjs",
+		"/home/pb/Documents/index.original.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.donate_deal.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index/index.broadcast.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/__tests__/index.test.js",
+		"/home/pb/Documents/REPOS/P2P_community/admin_bot_dev/AGENTS.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "webrtc_toggle_on_and_off.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hash.",
+				"rating-bot-dev/hash.js"
+			],
+			[
+				"__tests__/index/handlers/thread_message.test.js",
+				"logger_bot_dev/__tests__/index/handlers/thread_message.test.js"
+			],
+			[
+				"__tests__/db/update_followers_by_nicknames.test.js",
+				"admin_bot_dev/__tests__/db/update_followers_by_nicknames.test.js"
+			],
+			[
+				"__tests__/lib.test.js",
+				"admin_bot_dev/__tests__/lib.test.js"
+			],
+			[
+				"__tests__/index_methods.test.js",
+				"admin_bot_dev/__tests__/index_methods.test.js"
+			],
+			[
+				"admin_bot_dev/index_methods/up_follower.js",
+				"admin_bot_dev/index_methods/up_follower.js"
+			],
+			[
+				"index_methods/up_follower.js",
+				"admin_bot_dev/index_methods/up_follower.js"
+			],
+			[
+				"admin_bot index.js",
+				"admin_bot_dev/index.js"
+			],
+			[
+				"index.js",
+				"222/index.js"
+			],
+			[
+				"db_methods/update_followers_by_nicknames.js",
+				"admin_bot_dev/db_methods/update_followers_by_nicknames.js"
+			],
+			[
+				"update_fo",
+				"admin_bot_dev/__tests__/db/update_follower_by_id.test.js"
+			],
+			[
+				"index_me onbo",
+				"admin_bot_dev/index_methods/onboard.js"
+			],
+			[
+				"index_me",
+				"admin_bot_dev/__tests__/index_methods.test.js"
+			],
+			[
+				"admin_bot inde",
+				"admin_bot_dev/index.js"
+			],
+			[
+				"test.deal.",
+				"admin_bot_dev/__tests__/index/index.donate_deal.test.js"
+			],
+			[
+				"test.add",
+				"admin_bot_dev/__tests__/index/index.add.test.js"
+			],
+			[
+				"tests index.b",
+				"admin_bot_dev/__tests__/index/index.broadcast.test.js"
+			],
+			[
+				"pre-p",
+				"admin_bot_dev/.husky/pre-push"
+			],
+			[
+				"pre-",
+				"admin_bot_dev/.husky/pre-push"
+			],
+			[
+				"index.te",
+				"admin_bot_dev/__tests__/index.test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -14,6 +14,15 @@ Thanks for being privacy conscious. ✊
 This addon collects nothing and sends nothing.
 
 ### Note
-Some audio/video conferencing web services like Google Meet or Microsoft Teams depend on WebRTC to work. Firefox can't disable WebRTC per-tab or per-window, the setting affects the entire browser. That's why it is a toggler - toggle it on and off to get flexible security solution.  
+Some audio/video conferencing web services like Google Meet or Microsoft Teams depend on WebRTC to work. Firefox can't disable WebRTC per-tab or per-window, the setting affects the entire browser. That's why it is a toggler - toggle it on and off to get flexible security solution.
+
+## Development
+
+./build_icons.sh - to generate icons from base files (icon_on.png, icon_off.png)  
+./build_xpi.sh - to generate .xpi file
+
+icon.xcf - Gimp icon template (download at https://www.gimp.org/)
+
+----
 
 A fork of original repository authored by Chris Antaki: https://github.com/ChrisAntaki/disable-webrtc-firefox
